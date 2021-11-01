@@ -8,7 +8,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Annotation {
+public class Facebook_stepDef {
 WebDriver driver;
     @Given("I am on Facebook page")
     public void i_am_on_facebook_page() {
